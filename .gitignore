@@ -1,0 +1,7 @@
+models/
+log/
+result_df.csv
+simulation_df.csv
+.DS_Store
+**/__pycache__/
+**/.ipynb_checkpoints/
