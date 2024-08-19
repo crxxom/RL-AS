@@ -1,4 +1,4 @@
-# Performance of Reinforcement Learning Methods under the Avellaneda Stoikov Theoretical Market Making Framwork
+# Reinforcement Learning under the Avellaneda Stoikov Theoretical Market Making Framwork
 
 This repository contains the full implementation of the simulated experiments for the project.
 
